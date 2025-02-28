@@ -1,5 +1,8 @@
 # 27.02.2025 🎮
 
+<img src="https://cdn.discordapp.com/attachments/742376739321413684/1344795781160370176/image.png?ex=67c2362b&is=67c0e4ab&hm=794ec8f44b8e4138414bad8761ccdb2991951d146bca32150b5e679f2b9212d8&
+" alt="Map Screenshot" width="600"/>
+
 ## pv_mini_harbor a conversion of the original mp_harbor
 
 Map made by thegoog with help from Expertiz, zilch and Taco de Wolff + CoDEmanX (bsp decompiler).
